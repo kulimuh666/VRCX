@@ -6,13 +6,13 @@ guess he/she/it thought im too old for VRC , gues what, i want to deal with chil
 This Variant of VRCX should autoblock user who joins if they are not trusted, are not age verifierd and u have no Mutual Friends
 If one of the things changed it automatically unblocks the user.
 
-Sry but VRCHat support is slow as hell in response, so i have to thake things in my hand do protect me and others in future
+Sry but VRCHat support is slow as hell in response, so i have to take things in my hand do protect me and others in future
 (I also dont want to record all my vrchat session to defend myself)
 
 if its finished i gonna write it here
 mfg kulimuh666
 
-(btw iths my first fork of any github program - so please be patience with me)
+(btw it is my first fork of any github program - so please be patience with me)
 
 
 <div align="center">
