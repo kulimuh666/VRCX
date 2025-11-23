@@ -12,6 +12,8 @@ Sry but VRCHat support is slow as hell in response, so i have to thake things in
 if its finished i gonna write it here
 mfg kulimuh666
 
+(btw iths my first fork of any github program - so please be patience with me)
+
 
 <div align="center">
 
