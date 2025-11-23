@@ -1,7 +1,7 @@
 This Version is because i gor personally reported without reason from a troll in VRC -- NFSW content wher no nfsw was 
 i guess he/she/it heard my age and searched a way to hurt me
 
-guess he/she/it thought im too old for VRC , gues what, i want to deal with children either
+guess he/she/it thought im too old for VRC , guess what, i want to deal with children either
 
 This Variant of VRCX should autoblock user who joins if they are not trusted, are not age verifierd and u have no Mutual Friends
 If one of the things changed it automatically unblocks the user.
